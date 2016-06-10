@@ -1,15 +1,14 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Welcome!!!
 locale:           en_US
 logo:
 url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
   name: Kudiyar
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "About me."
   email: #emailaddress
   disqus-shortname:
   twitter: #username
