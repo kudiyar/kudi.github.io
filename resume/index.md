@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Teaching Assistant
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009 - 2013`
+__Eurasian National University, Kazakhstan__
+B.S. in Physics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2013 - 2015`
+__Marmara University, Turkey__
+M.S. in Physics
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2013`
+1st place in Physics Olympiad, Eurasian National University
 
 ## Publications
 
@@ -26,13 +26,11 @@ Name of Award, Organization
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2015`
+High-order harmonic generation from confined Rydberg atoms,  Journal of Physics Conference
 
-`1994`
-Article Title, Journal Title
 
-### Books
+<!--### Books
 
 `1994`
 Book Title, Journal Title
@@ -44,27 +42,25 @@ Book Title, Journal Title
 ## Presentations
 
 `1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>-->
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Graduate Teaching Assistant__, NC State University
+
+- Teach Labs(PY206, PY209)
+- Tutoring
+
+<!--`1994-1996`
+__Current Job Title__, Current Employer
 
 - Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+- Task-->
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
