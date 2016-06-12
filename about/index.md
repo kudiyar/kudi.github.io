@@ -6,11 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi, I am a graduate student in Physics at NC State University. I am enthusiastic to learn different things in life. I try to read various books and play soccer with my friends in my free time. 
 
 ## Current Interests and Projects:
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* DLorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* Molecular Simulation of Polymers
+* High-order harmonic generation from confined Rydberg atoms
