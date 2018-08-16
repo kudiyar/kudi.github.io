@@ -1,22 +1,18 @@
 ---
 layout: resume
 ---
-## Currently
-
-Graduate Teaching Assistant
-
 ## Education
 
 `2009 - 2013`
-__Eurasian National University, Kazakhstan__
+__Eurasian National University, Kazakhstan__ \\
 BSc in Physics
 
 `2013 - 2015`
-__Marmara University, Turkey__
+__Marmara University, Turkey__\\
 Language preparatory courses
 
 `2015 - 2017`
-__North Carolina State University, USA__
+__North Carolina State University, USA__\\
 MSc in Physics
 
 ## Awards
