@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
 
 Graduate Teaching Assistant
 
@@ -9,11 +8,15 @@ Graduate Teaching Assistant
 
 `2009 - 2013`
 __Eurasian National University, Kazakhstan__
-B.S. in Physics
+BSc in Physics
 
 `2013 - 2015`
 __Marmara University, Turkey__
-M.S. in Physics
+Language preparatory courses
+
+`2015 - 2017`
+__North Carolina State University, USA__
+MSc in Physics
 
 ## Awards
 
@@ -45,13 +48,20 @@ Book Title, Journal Title
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>-->
 
 
-## Occupation
+## Work Experience
 
 `Current`
 __Graduate Teaching Assistant__, NC State University
 
 - Teach Labs(PY206, PY209)
 - Tutoring
+
+`May2018 - August2018`
+__Data Science Intern__, Novozymes
+
+- Develop and maintain python scripts for transforming datasets
+- Design and implement data forms and database tables for lab data using PostgreSQL
+- Create a web interface to interact and upload laboratory data to the database
 
 <!--`1994-1996`
 __Current Job Title__, Current Employer
