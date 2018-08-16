@@ -1,6 +1,7 @@
 ---
 layout: resume
 ---
+## Currently
 
 Graduate Teaching Assistant
 
@@ -24,9 +25,7 @@ MSc in Physics
 1st place in Physics Olympiad, Eurasian National University
 
 ## Publications
-
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
 `2015`
