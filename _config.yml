@@ -3,11 +3,6 @@
 title:            Welcome!!!
 locale:           en_US
 logo:
-<<<<<<< HEAD
-url:
-=======
-url:		http://ncsu-libraries.github.io/jekyll-academic/
->>>>>>> origin/gh-pages
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Kudiyar
